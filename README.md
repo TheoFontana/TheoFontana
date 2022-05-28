@@ -1,3 +1,4 @@
-### Théo Fontana <br/>INSA Toulouse <br/> 4IR-SC
+## Théo Fontana 
+### Network engineer student at INSA Toulouse
 
-Contact : theo.fontana@insa-toulouse.fr
+Contact : contact@theofontana.fr
